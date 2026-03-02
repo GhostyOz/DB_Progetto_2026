@@ -1,4 +1,5 @@
 The project trace defined by th the professor (In Italian)
+
 Corso di Basi di Dati
 CdS Informatica per il Management TRACCIA di PROGETTO, A.A. 2025/2026
 PREMESSA
