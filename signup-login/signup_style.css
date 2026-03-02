@@ -1,0 +1,17 @@
+.wait{
+    display:none
+}
+#sign_form label,
+#sign_form input {
+    display: block;
+    margin-bottom: 10px;
+}
+#sign{
+    display:block;
+    background-color:aqua;
+}
+#sign:hover{
+    display:block;
+    background-color:blue;
+    color:white;
+}

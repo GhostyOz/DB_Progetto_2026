@@ -1,0 +1,17 @@
+#user_credentials{
+    float:right;
+}
+
+button{
+    display:block;
+    background-color:aqua;
+    margin:10px
+}
+button:hover{
+    background-color:blue;
+    color:white;
+    display:block;
+}
+.reserved{
+    display:none
+}

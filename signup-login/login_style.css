@@ -1,0 +1,16 @@
+label{
+    display:block
+}
+input{
+    display:block;
+    margin-bottom:10px
+}
+#log{
+    background-color:aqua;
+    text-align:center
+}
+#log:hover{
+    background-color:blue;
+    color:white;
+    text-align:center
+}

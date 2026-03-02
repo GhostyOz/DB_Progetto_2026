@@ -1,0 +1,19 @@
+body{
+    display: block;
+    text-align:center;
+    margin-top:20px
+}
+#buttons{
+    display: inline block;
+
+}
+button{
+    background-color:aqua;
+}
+button:hover{
+    background-color:blue;
+    color:white;
+}
+a{
+    text-decoration:none
+}
